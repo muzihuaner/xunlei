@@ -130,3 +130,7 @@ services:
 
 [kubespider](https://github.com/jwcesign/kubespider/blob/main/docs/zh/user_guide/thunder_install_config/README.md)
 
+
+邀请码获取
+[https://link.zhihu.com/?target=https%3A//docs.qq.com/form/page/DQWdyUWFLSXJGSHR5%3F_w_tencentdocx_form%3D1%23/fill](https://docs.qq.com/form/page/DQWdyUWFLSXJGSHR5?_w_tencentdocx_form=1#/fill)
+
